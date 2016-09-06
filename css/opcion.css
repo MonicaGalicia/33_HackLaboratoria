@@ -1,0 +1,59 @@
+.fondo {
+	background-color: gray;
+}
+.fn-Ne {
+	background-color: black;
+}
+.fn-Ve {
+	background-color: #51591b;
+}
+.c-Bla {
+	color: white !important;
+}
+ins {
+	color: blue;
+}
+.mar-5 {
+	padding: 5% 0;
+}
+.mart-5 {
+	margin: 5% 0;
+}
+.mart-2 {
+	margin: 2% 0;
+}
+.mart-3 {
+	margin: 3% 0;
+}
+.mar-but{
+	margin: 5% 0 15% 0;
+}
+#logo {
+	font-family: 'Great Vibes', cursive;
+	font-size: 2em;
+}
+.text, button {
+	font-family: 'Poiret One', cursive !important;
+}
+.titulos {
+	font-family: 'Arima Madurai', cursive;
+}
+.tam {
+	font-size: 1.5em;
+}
+body {
+	background-color: #7e1a02;
+}
+a:hover {
+	text-decoration: none !important;
+	color: black !important;
+}
+
+#auto{
+	margin:auto;
+	display:block;
+}
+
+.img-codigo{
+	margin-top:2%;
+}

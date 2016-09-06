@@ -1,0 +1,40 @@
+
+.codigo{
+	width:150px;
+	height:150px;
+}
+
+
+.fondo, footer {
+	background-color: gray !important;
+	margin-top: 2%;
+}
+
+.fn-Az {
+	background-color: blue;
+}
+.c-Bla {
+	color: white;
+}
+
+.mar-5 {
+	padding: 5% 0;
+}
+.mart-5 {
+	margin: 5% 0;
+}
+.cont {
+	font-size: 2em;
+}
+.logo {
+	font-family: 'Great Vibes', cursive;
+	font-size: 2em;
+}
+
+#mg-bottom{
+	margin-bottom:20%;
+}
+
+a{
+	color:black !important;
+}
